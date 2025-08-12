@@ -19,7 +19,6 @@ Streamlit app to organize personal finances, with Open Finance integration via A
 - **Streamlit**
 - **Pluggy**
 - **Requests**
-- **OAuth2 (for API authentication)**
 
 ---
 
