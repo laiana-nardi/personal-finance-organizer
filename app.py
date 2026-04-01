@@ -123,7 +123,7 @@ if st.session_state.get("item_id"):
                         f'</div>', unsafe_allow_html=True
                     )
 
-        # Account cards: max 3 per row
+        # Account cards: max 3 per row - testing
         st.subheader(":file_folder: Account Details by Bank")
         for i in range(0, len(accounts), max_cols):
             row_accounts = accounts[i:i+max_cols]
